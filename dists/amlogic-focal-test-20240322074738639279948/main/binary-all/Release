@@ -1,9 +1,0 @@
-Archive: amlogic-focal-test
-Component: main
-Origin: Radxa
-Label: Freight
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: all
-Date: Fri, 22 Mar 2024 07:47:38 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
