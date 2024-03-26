@@ -1,9 +1,0 @@
-Archive: focal-test
-Component: main
-Origin: Radxa
-Label: Freight
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: all
-Date: Fri, 22 Mar 2024 08:15:57 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC

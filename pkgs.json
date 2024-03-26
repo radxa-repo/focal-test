@@ -43,5 +43,6 @@
   "vscodium-archive-keyring": "0.1.0",
   "rtl8852bu": "1.19.3-45-g7583a804a.20230505-1",
   "linux-rk2312": "0.1-1",
-  "rockchip-prebuilt": "0.4.0-linux-6.1-stan-rkr1-5"
+  "rockchip-prebuilt": "0.4.0-linux-6.1-stan-rkr1-5",
+  "rockchip-udev": "0.3.2"
 }
