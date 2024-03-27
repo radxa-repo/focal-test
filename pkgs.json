@@ -27,7 +27,7 @@
   "linux-rk356x": "5.10.160-29",
   "radxa-udev": "0.1.1",
   "linux-rockchip": "5.10.110-31",
-  "u-boot-rknext": "2017.09-21",
+  "u-boot-rknext": "2017.09-22",
   "vendor-profiles": "0.3.7",
   "radxa-system-config": "0.6.0",
   "bluetuith": "0.2.0-1",
